@@ -1,9 +1,9 @@
-## 王奕博的个人主页
+## 王奕博 的个人主页
 
 ### 个人信息
-#### name: 王奕博
-#### mail: wang_yibo@stu.pku.edu.cn
-#### tel: 19816246896
+name: 王奕博\
+mail: wang_yibo@stu.pku.edu.cn\
+tel: 19816246896
 
 ### 教育背景
 #### 北京大学 2021/09-  
