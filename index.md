@@ -1,37 +1,38 @@
-## Welcome to GitHub Pages
+## 王奕博的个人主页
 
-You can use the [editor on GitHub](https://github.com/yibo-wong/yibo-wong.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+### 个人信息
+#### name: 王奕博
+#### mail: wang_yibo@stu.pku.edu.cn
+#### tel: 19816246896
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 教育背景
+#### 北京大学 2021/09-  
+##### 工学院
+理论与应用力学专业  工程与科学计算方向
+##### 国家发展研究院
+经济学专业（双学位）
+#### GPA: 3.93/4.00
 
-### Markdown
+### 核心课程 
+• 数学分析（一）（二）\
+• 高等代数\
+• 常微分方程\
+• 概率统计\
+• 计算方法\
+• 离散数学\
+• 中级宏观经济学\
+• 中级微观经济学
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 相关技能
+• 熟悉 C++/python 面向对象设计\
+• 掌握常见的数据结构与算法、数值计算方法\
+• 了解 pytorch 库及相关机器学习算法\
+• 了解运筹优化相关算法\
+• 了解随机过程和时序分析\
+• 具备良好的逻辑思维能力、驱动力强、善于学习\
+• 具备良好英语能力，CET-4 : 628
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yibo-wong/yibo-wong.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### 学生工作
+#### 北京大学工学院学生会 学术部成员
+• 定时搜集并推送全校学术讲座资源\
+• 联系教师、校友等并进行访谈
