@@ -1,13 +1,13 @@
-## 王奕博 的个人主页
+## Yibo Wang
 
-### 个人信息
-name: 王奕博\
+### Personal Information
+name: Yibo Wang\
 mail: wang_yibo@stu.pku.edu.cn\
 tel: 19816246896
 
-### 教育背景
-#### 北京大学 2021/09-  
-##### 工学院
+### Education Background
+#### Peking University 2021/09-2025/06(expected)
+##### College of Engineering
 理论与应用力学专业  工程与科学计算方向
 ##### 国家发展研究院
 经济学专业（双学位）
